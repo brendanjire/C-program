@@ -2,6 +2,11 @@
 
 int main()
 {
+/* 
+Brenda Njire
+CT101/G/26465/25 
+Variables
+*/
 char a='k'; //%c
 char name[]=("Agnes"); //%s
 int age=10; //%d

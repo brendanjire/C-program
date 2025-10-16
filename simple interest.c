@@ -4,6 +4,7 @@ int main()
 {
 /*Brenda Njire
 computer science
+CT101/G/26465/25
 kirinyaga university
 s_i=principle*rate/100*time
 */
